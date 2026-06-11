@@ -1,0 +1,26 @@
+body
+{
+background-color:skyblue;
+color:blue;
+font-family:arial sans serif;
+}
+
+h1
+{
+font-size:40px;
+text-align:center;
+text-shadow:4px 4px 3px red;
+}
+
+h2
+{
+font-size:33px;
+text-align:left:
+text-shadow:3px 3px 2px red;
+}
+
+p
+{
+font-size:20px;
+text-align:justify;
+}
